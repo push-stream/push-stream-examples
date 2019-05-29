@@ -1,0 +1,19 @@
+{
+  "name": "push-stream-examples",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dominictarr/push-stream-examples",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/push-stream-examples.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Dominic Tarr @EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519)",
+  "license": "MIT"  
+}
